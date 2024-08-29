@@ -1,0 +1,20 @@
+.team-details-container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+    background: rgba(0, 0, 0, 0.5);
+    color: #fff;
+    text-align: center;
+  }
+  
+  .team-details-container h1 {
+    margin-bottom: 20px;
+    font-size: 2.5rem;
+  }
+  
+  .team-details-container p {
+    font-size: 1.25rem;
+  }
+  
